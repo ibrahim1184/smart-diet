@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "758553423566",
+    "project_id": "smart-diet-ebbf4",
+    "storage_bucket": "smart-diet-ebbf4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758553423566:android:f501e1af2440c6c6002a9f",
+        "android_client_info": {
+          "package_name": "com.example.smart_diet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758553423566-91d5b029oe2hqan29oumhh65l50uj3tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL5aYVyU1nNC-yJXLFuHTTFcuLD0SUinQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758553423566-91d5b029oe2hqan29oumhh65l50uj3tn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758553423566-012j9pthlnl7ftmejqeqkekk9hhbg0ne.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartDiet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
